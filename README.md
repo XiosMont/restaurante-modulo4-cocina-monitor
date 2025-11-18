@@ -15,6 +15,6 @@ Definir el modelo de datos y los contratos de comunicación (endpoints API), jun
 
 ## Integrantes
 
-- Nombre 1 - Rol (Scrum Master)
-- Nombre 2 - Rol (Programador)
-- Nombre 3 - Rol (Documentador)
+- Losthin Montiel - Rol (Scrum Master)
+- Losthin Montiel - Rol (Programador)
+- Losthin Montiel - Rol (Documentador)
